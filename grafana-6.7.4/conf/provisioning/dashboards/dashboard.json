@@ -19,7 +19,7 @@
   "links": [],
   "panels": [
     {
-      "aliENCEolors": {},
+      "aliasColors": {},
       "bars": false,
       "dashLength": 10,
       "dashes": false,
@@ -64,7 +64,7 @@
         {
           "groupBy": [],
           "measurement": "stockexchange",
-          "orderByTime": "ENCE",
+          "orderByTime": "ASC",
           "policy": "default",
           "refId": "A",
           "resultFormat": "time_series",
@@ -82,7 +82,7 @@
             {
               "key": "empresa",
               "operator": "=",
-              "value": "ENCE"
+              "value": "TELEFONICA"
             }
           ]
         }
@@ -91,7 +91,7 @@
       "timeFrom": null,
       "timeRegions": [],
       "timeShift": null,
-      "title": "ENCE",
+      "title": "TELEFONICA",
       "tooltip": {
         "shared": true,
         "sort": 0,
