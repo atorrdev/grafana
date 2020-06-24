@@ -82,7 +82,7 @@
             {
               "key": "empresa",
               "operator": "=",
-              "value": "ACS"
+              "value": "TELECONICA"
             }
           ]
         }
@@ -91,7 +91,7 @@
       "timeFrom": null,
       "timeRegions": [],
       "timeShift": null,
-      "title": "ACS",
+      "title": "TELECONICA",
       "tooltip": {
         "shared": true,
         "sort": 0,
