@@ -19,7 +19,7 @@
   "links": [],
   "panels": [
     {
-      "aliasColors": {},
+      "aliENCEolors": {},
       "bars": false,
       "dashLength": 10,
       "dashes": false,
@@ -64,7 +64,7 @@
         {
           "groupBy": [],
           "measurement": "stockexchange",
-          "orderByTime": "ASC",
+          "orderByTime": "ENCE",
           "policy": "default",
           "refId": "A",
           "resultFormat": "time_series",
