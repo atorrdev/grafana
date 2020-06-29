@@ -7,6 +7,6 @@ datasources:
     database: bolsa
     user: grafana
     password: grafana
-    url: http://3.20.217.70:8086
+    url: http://3.128.114.51:8086
     jsonData:
       httpMode: GET
