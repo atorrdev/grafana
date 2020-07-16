@@ -82,7 +82,7 @@
             {
               "key": "empresa",
               "operator": "=",
-              "value": "TELEFONICA"
+              "value": "IBERDROLA"
             }
           ]
         }
@@ -91,7 +91,7 @@
       "timeFrom": null,
       "timeRegions": [],
       "timeShift": null,
-      "title": "TELEFONICA",
+      "title": "IBERDROLA",
       "tooltip": {
         "shared": true,
         "sort": 0,
