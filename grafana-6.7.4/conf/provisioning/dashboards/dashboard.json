@@ -82,7 +82,7 @@
             {
               "key": "empresa",
               "operator": "=",
-              "value": "IBERDROLA"
+              "value": "ACCIONA"
             }
           ]
         }
@@ -91,7 +91,7 @@
       "timeFrom": null,
       "timeRegions": [],
       "timeShift": null,
-      "title": "IBERDROLA",
+      "title": "ACCIONA",
       "tooltip": {
         "shared": true,
         "sort": 0,
