@@ -82,7 +82,7 @@
             {
               "key": "empresa",
               "operator": "=",
-              "value": "SANTANDER"
+              "value": "TELEFONICA"
             }
           ]
         }
@@ -91,7 +91,7 @@
       "timeFrom": null,
       "timeRegions": [],
       "timeShift": null,
-      "title": "SANTANDER",
+      "title": "TELEFONICA",
       "tooltip": {
         "shared": true,
         "sort": 0,
